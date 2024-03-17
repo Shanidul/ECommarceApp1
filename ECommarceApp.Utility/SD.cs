@@ -60,6 +60,7 @@ namespace ECommarceApp.Utility
                 {
                     array[arrayIndex] = let;
                     arrayIndex++;
+                    //hii
                 }
             }
             return new string(array, 0, arrayIndex);
